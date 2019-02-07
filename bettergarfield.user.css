@@ -1,12 +1,13 @@
 /* ==UserStyle==
-@name           Better Garfield.com
-@namespace      memejokehahayesidkwhattoputhere
-@version        0.0.0
-@description    A userstyle for Garfield.com to improve the visual quality and user experience
-@license        AGPL-3.0
-@author         CommenterOfComments/Commenter25
-@homepageURL    https://github.com/CommenterOfComments/Better-Garfield.com
-@supportURL     https://github.com/CommenterOfComments/Better-Garfield.com/issues/new
+@name         Better Garfield.com
+@namespace    github.com/CommenterOfComments
+@version      0.0.0
+@description  A userstyle for Garfield.com to improve the visual quality and user experience
+@author       CommenterOfComments
+@homepageURL  https://github.com/CommenterOfComments/Better-Garfield.com
+@supportURL   https://github.com/CommenterOfComments/Better-Garfield.com/issues/new/choose
+@updateURL    https://raw.githubusercontent.com/CommenterOfComments/Better-Garfield.com/master/bettergarfield.user.css
+@license      AGPL-3.0
 ==/UserStyle== */
 
 @-moz-document domain("example.com") {
