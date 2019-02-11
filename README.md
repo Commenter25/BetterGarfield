@@ -26,6 +26,9 @@ Rest of you, all you need to know is that you need to use Stylus. Get it [here f
 
 The version on userstyles.org is _**not actually BetterGarfield.**_ I only uploaded a fake version there so people can find the style easily. [You can read about why I refuse to post this style there on this page.](https://github.com/CommenterOfComments/CommenterUserstyles/wiki/why-don't-you-like-userstyes.org%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F)
 
+# Extra tips and tricks
+If you want to make the age check stop appearing, [check out this wiki page!](https://github.com/CommenterOfComments/BetterGarfield/wiki/Prevent-the-age-check-from-appearing)  
+
 # Feedback / Bug Reports
 Found a evil little bug? Think something should've been different? Just want to express your love?  
 All of those things can be done on...  
