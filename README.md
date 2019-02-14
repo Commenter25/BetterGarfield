@@ -1,6 +1,6 @@
 ![logo goes here](BetterGarfieldLogo.png)  
 _A userstyle for Garfield.com to improve the visual quality and user experience_  
-![watchers](https://img.shields.io/github/watchers/CommenterOfComments/BetterGarfield.svg?style=plastic) ![stars](https://img.shields.io/github/stars/CommenterOfComments/BetterGarfield.svg?style=plastic) ![forks](https://img.shields.io/github/forks/CommenterOfComments/BetterGarfield.svg?style=plastic)
+![watchers](https://img.shields.io/github/watchers/CommenterOfComments/BetterGarfield.svg?style=plastic) ![stars](https://img.shields.io/github/stars/CommenterOfComments/BetterGarfield.svg?style=plastic) ![forks](https://img.shields.io/github/forks/CommenterOfComments/BetterGarfield.svg?style=plastic) ![lastcommit](https://img.shields.io/github/last-commit/CommenterOfComments/BetterGarfield.svg?style=plastic) ![issues](https://img.shields.io/github/issues/CommenterOfComments/BetterGarfield.svg?style=plastic)
 
 # Features
 This style includes a variety of changes, including:
@@ -22,7 +22,7 @@ This style includes a variety of changes, including:
 This is only available in the UserCSS format. If you know what that means, then you can move on.  
 Rest of you, all you need to know is that you need to use Stylus. Get it [here for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [here for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
 
-[![Install directly with Stylus](https://img.shields.io/badge/Install%20directly%20with-Stylus-238b8b.svg)](https://raw.githubusercontent.com/CommenterOfComments/BetterGarfield/master/bettergarfield.user.css) ![releases](https://img.shields.io/github/release/CommenterOfComments/BetterGarfield.svg?style=flat)
+[![Click here to install BetterGarfield!](https://img.shields.io/badge/Click%20here%20to-install%20BetterGarfield!-orange.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQAQMAAAD3bWd6AAAABlBMVEUAAAAA/wA2Q0S9AAAAAXRSTlMAQObYZgAAAB9JREFUeF5j4G/Ajuo/MNg/YJA/AGKzMzAwMYDA/x8A7ZUKdZqp+8IAAAAASUVORK5CYII=)](https://raw.githubusercontent.com/CommenterOfComments/BetterGarfield/master/bettergarfield.user.css) ![version](https://img.shields.io/github/release/CommenterOfComments/BetterGarfield.svg?style=flat)
 
 The version on userstyles.org is _**not actually BetterGarfield.**_ I only uploaded a fake version there so people can find the style easily. [You can read about why I refuse to post this style there on this page.](https://github.com/CommenterOfComments/CommenterUserstyles/wiki/why-don't-you-like-userstyes.org%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F)
 
@@ -49,4 +49,3 @@ However, the TL;DR is:
 * Fork the repository
 * Make your changes to the style
 * Submit a pull request!
-
