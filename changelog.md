@@ -8,7 +8,7 @@ Initial release of the style (no shit)
 Please let me know if there's anything you want added, or if anything is broken!
 
 ### 02/XX/2019: Version 1.1.0 released!
-Added:
+**Added:**
 * A dark mode
 * Options
   * Toggle hiding the Entertainment button (default on)
@@ -19,7 +19,8 @@ Added:
 * The comic control bar looks normal when searching now (looked cut off before)
 * Email Garfield page has had its tabs removed (they're redundant clutter)
 * Additional @author metadata
-Bug fixes:
+
+**Bug fixes:**
   * Listable items pages (games, apps, books, etc) would show the Play/More text when selecting. It'll still copy, but I can't fix that.
   * Actually changed the version number on the style before releasing :p
   * Fixed a typo in the news ticker ("Watch the The Garfield Show on YouTube!")
