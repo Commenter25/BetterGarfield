@@ -1,4 +1,4 @@
-![logo goes here](BetterGarfieldLogo.png)  
+﻿![logo goes here](BetterGarfieldLogo.png)  
 _A userstyle for Garfield.com to improve the visual quality and user experience_  
 ![watchers](https://img.shields.io/github/watchers/CommenterOfComments/BetterGarfield.svg?style=plastic) ![stars](https://img.shields.io/github/stars/CommenterOfComments/BetterGarfield.svg?style=plastic) ![forks](https://img.shields.io/github/forks/CommenterOfComments/BetterGarfield.svg?style=plastic) ![lastcommit](https://img.shields.io/github/last-commit/CommenterOfComments/BetterGarfield.svg?style=plastic) ![issues](https://img.shields.io/github/issues/CommenterOfComments/BetterGarfield.svg?style=plastic)
 
@@ -8,13 +8,18 @@ This style includes a variety of changes, including:
 * Removal of ads*
 * Larger games
 * Slight increase in aesthetic pleasing
+* Fixing some small bugs in the original site
 * Some easter eggs hidden
 * Hiding some annoying things
 * Better list pages (like the games page)
+* Improved scaling for display/window size
 * Fixing a random typo
 * Compacting some things
+* Options to personalize your BetterGarf
 * Commented code for ease of modification
 * And definitely more to come!
+
+You can help this grow! If you think of anything to add to BetterGarfield, from a simple option to a crazy idea that would take months, go to the issues page and suggest it!
 
 <sup>_\*ads will still load (unless you have an ad blocker), but they will not be visible and will allow more room for what you actually care about. if you still want to support them but don't want ads in your way, this is a win-win._</sup>
 

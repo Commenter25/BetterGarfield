@@ -1,13 +1,13 @@
-# Changelog
+# Version Changelog
 
-### 02/10/2019 and before:
+## 02/10/2019 and before:
 idea and develeopement and stuf
 
-### 02/11/2019: Version 1.0.0 released!
+## 02/11/2019: Version 1.0.0 released!
 Initial release of the style (no shit)  
 Please let me know if there's anything you want added, or if anything is broken!
 
-### 02/XX/2019: Version 1.1.0 released!
+## 02/XX/2019: Version 1.1.0 released!
 **Added:**
 * A dark mode
 * Options
@@ -26,3 +26,13 @@ Please let me know if there's anything you want added, or if anything is broken!
   * Fixed a typo in the news ticker ("Watch the The Garfield Show on YouTube!")
   * The hover for listable items was 1 pixel off the gradient thingy. I know, I just saved your life, get off your knees.
   * Whoops! I forgot to add the mouse-over-click feature to the characters page!
+
+### 02/15/2019: Version 1.1.1 released
+**Bug fixes:**
+  * Fixed some night mode bugs (including the comic calendar)
+  * Added support for the site's scaling (how did i forget about this)
+  * Accidentally had removed the background gradient thingy for the games page
+  * Age check had the original project name. Also added a mention to the wiki
+  * Fixed the hover effect on the characters page
+  * Added a background to the character page boxes
+  * Probably some other stuff I forgot to put here
