@@ -13,7 +13,7 @@ This guide will tell you the best way to help.
 1. Download BetterGarfield (duh)
    - Optional steps:
      - Copy the code and import it to the non-UserCSS editor
-     - Beautify the code to your preference
+     - Beautify the code to your preference (but be sure you don't copy that code into your pull request later!)
 2. Find the code section that fits best
    - Example: If you're changing the header, go to the global block (domain("garfield.com")) and the section for the header
 3. Make the changes you want to make
