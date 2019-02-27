@@ -8,7 +8,8 @@ This style includes a variety of changes, including:
 * Removal of ads*
 * Larger games
 * Slight increase in aesthetic pleasing
-* Fixing some small bugs in the original site
+* Fixing bugs in the original site 
+* Games are playable at smaller resolutions <sup>📵</sup>
 * Some easter eggs hidden
 * Hiding some annoying things
 * Better list pages (like the games page)
@@ -19,9 +20,10 @@ This style includes a variety of changes, including:
 * Commented code for ease of modification
 * And definitely more to come!
 
-You can help this grow! If you think of anything to add to BetterGarfield, from a simple option to a crazy idea that would take months, go to the issues page and suggest it!
+You can help this grow! If you think of anything to add to BetterGarfield, from a simple extra option to a crazy idea that would take months, go to the issues page and suggest it!
 
-<sup>_\*ads will still load (unless you have an ad blocker), but they will not be visible and will allow more room for what you actually care about. if you still want to support them but don't want ads in your way, this is a win-win._</sup>
+<sup>_\*ads will still load (unless you have an ad blocker), but they will not be visible and will allow more room for what you actually care about. if you still want to support them but don't want ads in your way, this is a win-win, because it should still count as a "impression"._</sup>  
+<sup>📵 - _On a screen smaller than 768px in width, this is likely bugged. Sorry phones._</sup>
 
 # Download
 This is only available in the UserCSS format. If you know what that means, then you can move on.  
