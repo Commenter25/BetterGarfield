@@ -7,6 +7,7 @@ This style includes a variety of changes, including:
 * A wider page
 * Removal of ads*
 * Larger games
+* Dark mode
 * Slight increase in aesthetic pleasing
 * Fixing bugs in the original site 
 * Games are playable at smaller resolutions <sup>📵</sup>
