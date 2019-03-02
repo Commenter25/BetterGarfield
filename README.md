@@ -17,7 +17,7 @@ This style includes a variety of changes, including:
 * Improved scaling for display/window size
 * Fixing a random typo
 * Compacting some things
-* Options to personalize your BetterGarf
+* [Options to personalize your BetterGarf](https://github.com/CommenterOfComments/BetterGarfield/wiki/Options)
 * Commented code for ease of modification
 * And definitely more to come!
 
