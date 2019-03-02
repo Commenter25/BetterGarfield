@@ -49,3 +49,9 @@ Please let me know if there's anything you want added, or if anything is broken!
   * Of all the places to advertise the new Garf Solitare/Mahjong, why the fuck on the comics dropdown?
 * Updated namespace (it's now consistent between all of my styles)
 * File is now UTF-8 instead of Unicode, which not only halfed the file size via sorcery, but also GitHub actually shows it because they suck _**BINARY FILE NOT SHOWN BINARY FILE NOT SHOWN**_
+
+### 03/01/2019: Version 1.1.3 released
+**Bug fixes:**
+  * Got rid of sharing icons on the comics page (i should really have looked through on a clean browser _before_ release)
+  * Added padding to the news page.
+  * Hidden the entertainment button no matter what on resolutions between 768px and 992px

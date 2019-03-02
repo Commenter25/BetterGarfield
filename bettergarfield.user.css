@@ -1,7 +1,7 @@
 ﻿/* ==UserStyle==
 @name         BetterGarfield
 @namespace    github.com/CommenterOfComments
-@version      1.1.2
+@version      1.1.3
 @description  A userstyle for Garfield.com to improve the visual quality and user experience
 @author       CommenterOfComments <commenterofcomments@gmail.com> (https://www.youtube.com/c/CommenterIsBored)
 @homepageURL  https://github.com/CommenterOfComments/BetterGarfield
@@ -84,7 +84,7 @@ div:nth-child(2)>div:nth-child(3)>p:nth-child(1){font-size:0;a:nth-child(1){font
  /*Games button shows up on most screens*/
 /*Screens <768px are highly disadvised*/
 @media(min-width:768px){.header li.hidden-sm.hidden-xs{display:block!important}}
-
+@media(min-width:768px) and (max-width:992px){.navbar .dropdown:nth-child(4){display:none}}
 
 /*****
 Footer changes
@@ -225,6 +225,9 @@ Comic pages
 	
 /*Widens buttons on smaller display*/	
 @media(min-width:767px){.col-sm-3{width:50%}}
+
+/*Hides share buttons*/
+.addthis_sharing_toolbox{display:none}
 }
 
 @-moz-document url-prefix("https://garfield.com/comic?keywords="),url-prefix("https://garfield.com/usacres?keywords="){
@@ -257,7 +260,7 @@ Shop page (even though it's basically just a path to other pages)
 @media(max-width:767px){.ad-block-container{display:table;width:100%}}
 }
 
-@-moz-document url-prefix("https://garfield.com/contact/garfield"){#myTab{display:none}} /*not need*/
+@-moz-document url-prefix("https://garfield.com/contact/garfield"){#myTab{display:none}}/*not need*/
 @-moz-document url-prefix("https://garfield.com/paws-inc/press-room"){.row .col-sm-8 .img-article div p strong{color:#2f67ff!important}}
 @-moz-document url-prefix("https://garfield.com/apps"),url-prefix("https://garfield.com/books"),url-prefix("https://garfield.com/videos"){
 /**********
@@ -333,6 +336,8 @@ Character page (changes to the base page)
 /*Hides the page switcher (since both garfield and us acres are both only one page)*/
 .pagination-container{display:none}
 }
+
+@-moz-document url-prefix("https://garfield.com/news"){article{padding-bottom:10px}}
 
 @-moz-document url-prefix("https://garfield.com/games"){
 /**********
