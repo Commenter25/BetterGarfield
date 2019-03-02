@@ -31,6 +31,8 @@ Rest of you, all you need to know is that you need to use Stylus. Get it [here f
 
 [![Click here to install BetterGarfield!](https://img.shields.io/badge/Click%20here%20to-install%20BetterGarfield!-orange.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQAQMAAAD3bWd6AAAABlBMVEUAAAAA/wA2Q0S9AAAAAXRSTlMAQObYZgAAAB9JREFUeF5j4G/Ajuo/MNg/YJA/AGKzMzAwMYDA/x8A7ZUKdZqp+8IAAAAASUVORK5CYII=)](https://raw.githubusercontent.com/CommenterOfComments/BetterGarfield/master/bettergarfield.user.css) ![version](https://img.shields.io/github/release/CommenterOfComments/BetterGarfield.svg?style=flat)
 
+After installing, the editor might appear, and you see a bunch of "issues". The code is actually 100% functional, this is a issue with the system for finding bugs. It doesn't understand the exact code being used, and thinks "wait a minute... THAT ISN'T NORMAL REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE" Just close the tab and try visting Garfield.com!
+
 The version on userstyles.org is _**not actually BetterGarfield.**_ I only uploaded a fake version there so people can find the style easily. [You can read about why I refuse to post this style there on this page.](https://github.com/CommenterOfComments/CommenterUserstyles/wiki/why-don't-you-like-userstyes.org%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F)
 
 # Extra tips and tricks
