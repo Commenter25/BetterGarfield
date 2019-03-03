@@ -20,8 +20,9 @@ This guide will tell you the best way to help.
 4. Please _test it before doing anything else!_
 5. Minify the code (instructions further down)
 6. Fork the repository
-7. Replace the BetterGarf file with yours (This is your own copy, don't worry)
-8. Go back to the normal repo, and submit a pull request!
+7. Replace the BetterGarfield**_-Dev_** file with yours (This is your own copy, don't worry)
+8. Make sure everything you didn't change is up to date (so you don't accidentally revert anything)
+9. Go back to the normal repo, and submit a pull request!
 
 ## Minifying your code
 Now, if you don't know what minification is, it's basically making the code as small as possible.  
@@ -69,6 +70,5 @@ In my opinion, this significantly increases the readiblity without too much of a
 
 ## Rules
 Don't try and change stuff to `html:{display:none}`  
-That's a bit of a simplification, but basically, don't be a jerk or intentionally try to fuck stuff up.  
-I _will_ review your code and make sure it functions properly. So don't try it.  
+That's a bit of a simplification, but basically, don't be a jerk and/or intentionally try to fuck stuff up. I _will_ review your code and make sure it functions properly. So don't try it.  
 Otherwise, if you're someone who has good intentions, don't worry about anything.
