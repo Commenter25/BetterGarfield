@@ -20,7 +20,7 @@ This guide will tell you the best way to help.
 4. Please _test it before doing anything else!_
 5. Minify the code (instructions further down)
 6. Fork the repository
-7. Replace the BetterGarfield**_-Dev_** file with yours (This is your own copy, don't worry)
+7. Replace the BetterGarfield **_-Dev_** file with yours (This is your own copy, don't worry)
 8. Make sure everything you didn't change is up to date (so you don't accidentally revert anything)
 9. Go back to the normal repo, and submit a pull request!
 
