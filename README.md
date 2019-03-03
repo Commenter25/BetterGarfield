@@ -1,4 +1,4 @@
-﻿![logo goes here](BetterGarfieldLogo.png)  
+﻿![logo goes here](images/logo.png)  
 _A userstyle for Garfield.com to improve the visual quality and user experience_  
 ![watchers](https://img.shields.io/github/watchers/CommenterOfComments/BetterGarfield.svg?style=plastic) ![stars](https://img.shields.io/github/stars/CommenterOfComments/BetterGarfield.svg?style=plastic) ![forks](https://img.shields.io/github/forks/CommenterOfComments/BetterGarfield.svg?style=plastic) ![lastcommit](https://img.shields.io/github/last-commit/CommenterOfComments/BetterGarfield.svg?style=plastic) ![issues](https://img.shields.io/github/issues/CommenterOfComments/BetterGarfield.svg?style=plastic)
 
