@@ -23,7 +23,7 @@ A clear description of what you expected to happen.
 If you can, add screenshots to help explain your problem.
 
 **Device Info:**
-(be as specific as you can, putting "Windows 10" is better than just "Windows")
+[be as specific as you can, putting "Windows 10" is better than just "Windows"]
  - Phone: [yes or no]
  - Device: [if yes to above, place phone here. e.g. Samsung Galaxy, iPhone]
  - OS: [e.g. Windows, iOS, macOS, Android]
