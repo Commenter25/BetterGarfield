@@ -1,6 +1,6 @@
 ---
 name: General question
-about: Ask a question about me, BetterGarfield, or the meaning of life.
+about: Ask a question about me, BetterGarf, or the meaning of life.
 title: ''
 labels: question
 assignees: CommenterOfComments

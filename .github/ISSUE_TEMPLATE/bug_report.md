@@ -1,17 +1,16 @@
 ---
 name: Bug report
-about: Send in a report about a bug crawling around your CSS.
+about: Send in a report about a bug crawling around your BetterGarf
 title: ''
 labels: bug
 assignees: CommenterOfComments
 
 ---
 
-**Describe the bug**
+**Description**
 A clear description of what the bug is.
 
 **To Reproduce**
-Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
@@ -21,14 +20,15 @@ Steps to reproduce the behavior:
 A clear description of what you expected to happen.
 
 **Screenshots**
-If applicable, add screenshots to help explain your problem.
+If you can, add screenshots to help explain your problem.
 
-**Device Info (please complete the following information):**
+**Device Info:**
+(be as specific as you can, putting "Windows 10" is better than just "Windows")
  - Phone: [yes or no]
- - Device: [if answered yes to above, place phone here. e.g. Pixel 2, iPhone 5]
- - OS: [e.g. Windows 7, iOS, Ubuntu, Android]
- - Browser [e.g. Chrome, Safari, Firefox. specifying the version might be helpful too.]
- - Version [BetterGarf version you're using. e.g. v1.0.2]
+ - Device: [if yes to above, place phone here. e.g. Samsung Galaxy, iPhone]
+ - OS: [e.g. Windows, iOS, macOS, Android]
+ - Browser: [e.g. Chrome, Safari, Firefox, Internet Explorer]
+ - Version: [BetterGarf version you're using. e.g. v1.0.2]
 
 **Additional context**
 Add any other context about the problem here.
