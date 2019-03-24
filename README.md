@@ -53,9 +53,6 @@ If you do that, then we can try to add it in some form, and make _everyone's_ ex
 
 # "How can I help?"
 Ah, you have decided to help make BetterGarfield better! Thank you so much!  
-In this case, you can read the [Contribution Guide](CONTRIBUTING.md) to learn what you need to do!  
-However, the TL;DR is:
-* Have a basic knowledge of CSS
-* Fork the repository
-* Make your changes to the style
-* Submit a pull request!
+However, as of right now, it's ill-advised. A major update is being worked on now.  
+It would be wise to wait for the new update to come, and work with that version.  
+You may also submit a issue (as told above)
