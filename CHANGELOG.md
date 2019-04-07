@@ -6,6 +6,11 @@ In a nutshell, here's what that means in a very heavily paraphrased manner:
   * Clicking the version name will show what the repository looked like at the time
   * The list is sorted by new (so if v4.2.0 is the latest, then v4.1.9 will be right below it if that's the previous version)
 
+## 2019-04-06 - [Version 1.1.5](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.5)
+### Changed:
+  * It's been about a week now, time to get rid of that little eye catcher for that message below.
+(i hate making version increments for these two updates that have almost no value but hey i gotta do it)
+
 ## 2019-03-30 - [Version 1.1.4](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.4)
 Sorry, this is a really disappointing update. I literally just removed something out of date.
 
@@ -23,7 +28,7 @@ Alright, done with the long text. Signing off. remember to watch and star the re
 ### Changed:
   * Now a different line says something else, which might've brought you here 😉
 
-(since you're already here, feel free to go to line 78 through 82 in the editor and delete the message, since it serves no purpose for you now beyond being distracting)
+(if you want to remove the message, go to line 78 through 82 in the editor and wipe it)
 
 ## 2019-03-01 - [Version 1.1.3](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.3)
 ### Fixed:

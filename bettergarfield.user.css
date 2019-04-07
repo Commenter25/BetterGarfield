@@ -1,7 +1,7 @@
 ﻿/* ==UserStyle==
 @name         BetterGarfield
 @namespace    github.com/CommenterOfComments
-@version      1.1.4
+@version      1.1.5
 @description  A userstyle for Garfield.com to improve the visual quality and user experience
 @author       CommenterOfComments <commenterofcomments@gmail.com> (https://www.youtube.com/c/CommenterIsBored)
 @homepageURL  https://github.com/CommenterOfComments/BetterGarfield
@@ -74,12 +74,6 @@ if hide_entertainment{.navbar .dropdown:nth-child(4){display:none}}
 .navbar-default{margin-bottom:0;border-radius:8px 8px 0 0;box-shadow:none;.navbar-nav>li>a{border-right:0}}
 .ticker{border-top:none;background:linear-gradient(to right,#f5fafe,#98ccfe);border-bottom:2px solid #009;.carousel-indicators{display:none};.glyphicon-arrow-left,.glyphicon-arrow-right{color:#009};.carousel-control.left,.carousel-control.right{background:#0000};.carousel .item{padding-bottom:7px}}
 .ticker-td-20{display:none!important}
-
-/*v2 tease*/
-#news-ticker>div:nth-child(2)>div:nth-child(1){
-p::before{content:"Hey, you! Yeah, you! It's the BetterGarf dev! You need to read something, it's important! tinyurl.com/BetterGarfChangelog";font:italic 1000 16px Ubuntu;color:red}
-p{font-size:0;a{font-size:0}}
-}
 
  /*Games button shows up on most screens*/
 /*Screens <768px are highly disadvised*/
