@@ -1,43 +1,43 @@
 ﻿![logo goes here](images/logo.png)  
-_A userstyle for Garfield.com to improve the visual quality and user experience_  
+_A enhancement to the quality and experience of Garfield.com_  
 ![watchers](https://img.shields.io/github/watchers/CommenterOfComments/BetterGarfield.svg?style=plastic) ![stars](https://img.shields.io/github/stars/CommenterOfComments/BetterGarfield.svg?style=plastic) ![forks](https://img.shields.io/github/forks/CommenterOfComments/BetterGarfield.svg?style=plastic) ![lastcommit](https://img.shields.io/github/last-commit/CommenterOfComments/BetterGarfield.svg?style=plastic) ![issues](https://img.shields.io/github/issues/CommenterOfComments/BetterGarfield.svg?style=plastic)
+
+# Download
+<strong>READ THIS BEFORE CLICKING INSTALL:</strong>  
+This is a userstyle. You need to use the extension Stylus to get it. Get it [here for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [here for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
+
+[![Click here to install BetterGarfield](https://img.shields.io/badge/Click%20here%20to-install%20BetterGarfield!-orange.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQAQMAAAD3bWd6AAAABlBMVEUAAAAA/wA2Q0S9AAAAAXRSTlMAQObYZgAAAB9JREFUeF5j4G/Ajuo/MNg/YJA/AGKzMzAwMYDA/x8A7ZUKdZqp+8IAAAAASUVORK5CYII=)](https://raw.githubusercontent.com/CommenterOfComments/BetterGarfield/master/bettergarfield.user.css) ![version](https://img.shields.io/github/release/CommenterOfComments/BetterGarfield.svg?style=flat)
+
+After installing, the editor might appear, and you see a bunch of "issues". The code is actually 100% functional, this is a issue with the system for finding bugs. It doesn't understand the exact code being used, and thinks "wait a minute... THAT ISN'T NORMAL REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE" Just close the tab and try visting Garfield.com!
 
 # Features
 This style includes a variety of changes, including:
 * A wider page
-* Removal of ads*
-* Larger games
+* Hidden ads*
+* Higher resolution games<sup>🎲</sup>
 * Dark mode
-* Slight increase in aesthetic pleasing
-* Fixing bugs in the original site 
-* Games are playable at smaller resolutions <sup>📵</sup>
-* Some easter eggs hidden
-* Hiding some annoying things
-* Better list pages (like the games page)
-* Improved scaling for display/window size
+* Increased aesthetic pleasing
+* Fixed site bugs 
+* Easter eggs
+* Hiding annoying things
+* Better list pages
+* Improved scaling for display size<sup>📱</sup>
 * Fixing a random typo
-* Compacting some things
+* Making parts of the site more compact
 * [Options to personalize your BetterGarf](https://github.com/CommenterOfComments/BetterGarfield/wiki/Options)
-* Commented code for ease of modification
+* Commented code for easier modification
 * And definitely more to come!
 
 You can help this grow! If you think of anything to add to BetterGarfield, from a simple extra option to a crazy idea that would take months, go to the issues page and suggest it!
 
-<sup>_\*ads will still load (unless you have an ad blocker), but they will not be visible and will allow more room for what you actually care about. if you still want to support them but don't want ads in your way, this is a win-win, because it should still count as a "impression"._</sup>  
-<sup>📵 - _On a screen smaller than 768px in width, this is likely bugged. Sorry phones._</sup>
+<sup>_\*Ads will still load (unless you have an ad blocker), but they will not be visible and will allow more room for what you actually care about. If you still want to support them but don't want ads in your way, this is a win-win, because it should still count as a "impression"._</sup>   
+<sup>_📱On a screen smaller than 768px in width, games are likely bugged, but may work. Sorry phones. Although, I'm not sure how you're playing anyway, since there's no mobile Flash..._</sup>  
+<sup>_🎲Games may look weird in a few instances. This is usually due to something ingame actually being a image instead of normal Flash rendering (which is infinitely scalable). Some games also have attempts to psuedo-increase the game window width, which may cause some strange effects but will normally look fine during gameplay. Please report any and all issues with this feature, as this is one of the main focuses of the project._</sup> 
 
-# Download
-This is only available in the UserCSS format. If you know what that means, then you can move on.  
-Rest of you, all you need to know is that you need to use Stylus. Get it [here for Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne) and [here for Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/).
-
-[![Click here to install BetterGarfield!](https://img.shields.io/badge/Click%20here%20to-install%20BetterGarfield!-orange.svg?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAAQAQMAAAD3bWd6AAAABlBMVEUAAAAA/wA2Q0S9AAAAAXRSTlMAQObYZgAAAB9JREFUeF5j4G/Ajuo/MNg/YJA/AGKzMzAwMYDA/x8A7ZUKdZqp+8IAAAAASUVORK5CYII=)](https://raw.githubusercontent.com/CommenterOfComments/BetterGarfield/master/bettergarfield.user.css) ![version](https://img.shields.io/github/release/CommenterOfComments/BetterGarfield.svg?style=flat)
-
-After installing, the editor might appear, and you see a bunch of "issues". The code is actually 100% functional, this is a issue with the system for finding bugs. It doesn't understand the exact code being used, and thinks "wait a minute... THAT ISN'T NORMAL REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE" Just close the tab and try visting Garfield.com!
+# Extra tips and tricks and knowledge and stuff
+If you want to make the age check stop appearing, [check out this wiki page!](https://github.com/CommenterOfComments/BetterGarfield/wiki/Prevent-the-age-check-from-appearing)
 
 The version on userstyles.org is _**not actually BetterGarfield.**_ I only uploaded a fake version there so people can find the style easily. [You can read about why I refuse to post this style there on this page.](https://github.com/CommenterOfComments/CommenterUserstyles/wiki/why-don't-you-like-userstyes.org%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F)
-
-# Extra tips and tricks
-If you want to make the age check stop appearing, [check out this wiki page!](https://github.com/CommenterOfComments/BetterGarfield/wiki/Prevent-the-age-check-from-appearing)  
 
 # Feedback / Bug Reports
 Found a evil little bug? Think something should've been different? Just want to express your love?  
