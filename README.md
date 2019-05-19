@@ -1,4 +1,4 @@
-﻿![logo goes here](images/logo.png)  
+![logo goes here](images/logo.svg)  
 _A enhancement to the quality and experience of Garfield.com_  
 ![watchers](https://img.shields.io/github/watchers/CommenterOfComments/BetterGarfield.svg?style=plastic) ![stars](https://img.shields.io/github/stars/CommenterOfComments/BetterGarfield.svg?style=plastic) ![forks](https://img.shields.io/github/forks/CommenterOfComments/BetterGarfield.svg?style=plastic) ![lastcommit](https://img.shields.io/github/last-commit/CommenterOfComments/BetterGarfield.svg?style=plastic) ![issues](https://img.shields.io/github/issues/CommenterOfComments/BetterGarfield.svg?style=plastic)
 
