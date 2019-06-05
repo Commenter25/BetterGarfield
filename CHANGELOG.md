@@ -6,6 +6,13 @@ In a nutshell, here's what that means in a very heavily paraphrased manner:
   * Clicking the version name will show what the repository looked like at the time
   * The list is sorted by new (so if v4.2.0 is the latest, then v4.1.9 will be right below it if that's the previous version)
 
+## 2019-06-04 - [Version 1.1.6](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.6)
+small patch thingy, still working on v2 to come someday
+### Fixed:
+  * Centered arrows in carousel buttons
+  * Go Games is now hidden
+  * News ticker text is now consistently not bold, thanks Garfield GO
+
 ## 2019-04-06 - [Version 1.1.5](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.5)
 ### Changed:
   * It's been about a week now, time to get rid of that little eye catcher for that message below.
@@ -27,8 +34,6 @@ Alright, done with the long text. Signing off. remember to watch and star the re
   * Removed the fix for "the The Garfield Show" since that line is now removed from the ticker
 ### Changed:
   * Now a different line says something else, which might've brought you here 😉
-
-(if you want to remove the message, go to line 78 through 82 in the editor and wipe it)
 
 ## 2019-03-01 - [Version 1.1.3](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.3)
 ### Fixed:

@@ -1,7 +1,7 @@
 ﻿/* ==UserStyle==
 @name         BetterGarfield
 @namespace    github.com/CommenterOfComments
-@version      1.1.5
+@version      1.1.6
 @description  A userstyle for Garfield.com to improve the visual quality and user experience
 @author       CommenterOfComments <commenterofcomments@gmail.com> (https://www.youtube.com/c/CommenterIsBored)
 @homepageURL  https://github.com/CommenterOfComments/BetterGarfield
@@ -51,6 +51,16 @@ Global changes
 	
 if hide_carousels{#carousel-banner{display:none}}
 
+/*align carousel arrow shit*/
+.carousel-control .glyphicon-chevron-left {
+    top: 43%;
+	left: 25%
+}
+.carousel-control .glyphicon-chevron-right {
+    top: 43%;
+	right:25%
+}
+
 
 /*****
 Header changes
@@ -59,7 +69,7 @@ Header changes
 #social-nav{display:none}
 
 /*ads in the comic dropdown fuck off*/
-.navbar{.dropdown:nth-child(1){ul:nth-child(2){li:nth-child(3),>li:nth-child(4),li:nth-child(5){display:none}}}}
+.navbar{.dropdown:nth-child(1){ul:nth-child(2){li:nth-child(3),>li:nth-child(4),li:nth-child(5),li:nth-child(6){display:none}}}}
 
 /*it's just a long shop button*/
 if hide_entertainment{.navbar .dropdown:nth-child(4){display:none}}
@@ -79,6 +89,9 @@ if hide_entertainment{.navbar .dropdown:nth-child(4){display:none}}
 /*Screens <768px are highly disadvised*/
 @media(min-width:768px){.header li.hidden-sm.hidden-xs{display:block!important}}
 @media(min-width:768px) and (max-width:992px){.navbar .dropdown:nth-child(4){display:none}}
+
+/*no bold*/
+#news-ticker p:nth-child(1) b{font-weight:normal!important}
 
 /*****
 Footer changes
