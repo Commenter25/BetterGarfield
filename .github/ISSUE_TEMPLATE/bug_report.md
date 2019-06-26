@@ -3,7 +3,7 @@ name: Bug report
 about: Send in a report about a bug crawling around your BetterGarf
 title: ''
 labels: bug
-assignees: CommenterOfComments
+assignees: Commenter25
 
 ---
 

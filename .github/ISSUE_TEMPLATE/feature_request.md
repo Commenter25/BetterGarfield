@@ -3,7 +3,7 @@ name: Feature request
 about: Suggest a feature to be featured in your BetterGarf with features.
 title: ''
 labels: enhancement
-assignees: CommenterOfComments
+assignees: Commenter25
 
 ---
 
