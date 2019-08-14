@@ -1,7 +1,7 @@
-﻿/* ==UserStyle==
+/* ==UserStyle==
 @name         BetterGarfield
 @namespace    github.com/CommenterOfComments
-@version      1.1.6
+@version      1.1.7
 @description  A userstyle for Garfield.com to improve the visual quality and user experience
 @author       CommenterOfComments <commenterofcomments@gmail.com> (https://www.youtube.com/c/CommenterIsBored)
 @homepageURL  https://github.com/CommenterOfComments/BetterGarfield
@@ -10,7 +10,6 @@
 @license      AGPL-3.0
 @preprocessor stylus
 @var          checkbox hide_carousels     "Hide carousels"                0 (Note: Character page always has it hidden)
-@var          checkbox hide_entertainment "Hide the Entertainment button" 1
 @var          checkbox hide_footer        "Hide the footer"               0
 @var          checkbox dark_mode          "Dark mode"                     0
 ==/UserStyle== */
@@ -70,9 +69,6 @@ Header changes
 
 /*ads in the comic dropdown fuck off*/
 .navbar{.dropdown:nth-child(1){ul:nth-child(2){li:nth-child(3),>li:nth-child(4),li:nth-child(5),li:nth-child(6){display:none}}}}
-
-/*it's just a long shop button*/
-if hide_entertainment{.navbar .dropdown:nth-child(4){display:none}}
 
 /*Removes the additional padding of the news button*/
 .navbar .navbar-nav>li:last-child>a{padding-right:0}
@@ -248,23 +244,6 @@ Comic search
 /*Removes some unneeded padding*/
 .unpadded {padding:0px}
 .result-item{margin-bottom:0}
-}
-
-@-moz-document url-prefix("https://garfield.com/shop"){
-/**********
-Shop page (even though it's basically just a path to other pages)
-**********/
-
-/* Centers the Garfield stores button */
-.col-sm-6{padding-left:55px}
-
- /* Unhides the promos since it actually makes sense to have them here */
-/* ps: carousels now make me want to fucking commit suicide THIS TOOK FOREVER TO DO WHY DO CAROUSELS SUCK SO MUCH */
-.ad-block{display:none}
-@media(min-width:767px){
-.ad-block-container{display:table;width:100%}
-.ad-block-buddy{margin-left:0;padding-left:45px;.carousel-indicators{display:none};.carousel-control{display:none};.carousel-inner>.item{display:inline;transition: none};.col-xs-4{width:16%};.row::after,.row::before{display:inline};.carousel-inner>.next,.carousel-inner>.prev{position:static}}}
-@media(max-width:767px){.ad-block-container{display:table;width:100%}}
 }
 
 @-moz-document url-prefix("https://garfield.com/contact/garfield"){#myTab{display:none}}/*not need*/
@@ -625,5 +604,3 @@ p strong::before{content: "When I was 18, 18 years old, I saw for the first time
 @media(max-width:767px){#game-player{width:550px;height:412px}}
 }
 
-/*Well, you did it Commenter, you big fucking dork. You made a userstyle for Garfield.com, and were the first to do it. Are you proud of yourself?*/
-/*You better fucking believe I am.*/
