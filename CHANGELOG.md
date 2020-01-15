@@ -13,7 +13,7 @@ The best way to keep track of this project for now would be to use GitHub's watc
 ### Changed:
   * The Age Check button's text to something a bit less dumb and somewhat edgy
 
-## 2019-06-04 - [Version 1.1.7](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.7)
+## 2019-08-14 - [Version 1.1.7](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.7)
 Viacom owns Paws Inc, and now shopping links have been removed from Garfield.com. I fear this is the beginning of the end of Garfield's website.
 ### Removed:
   * Option to hide the Entertainment button. It's now required to access those pages
