@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name         BetterGarfield
 @namespace    github.com/CommenterOfComments
-@version      1.1.7
+@version      1.1.8
 @description  A userstyle for Garfield.com to improve the visual quality and user experience
 @author       CommenterOfComments <commenterofcomments@gmail.com> (https://www.youtube.com/c/CommenterIsBored)
 @homepageURL  https://github.com/CommenterOfComments/BetterGarfield
@@ -145,7 +145,7 @@ p strong{font-size:0}
 
 .radio input{position:initial}
 
-#submit.fancyFont::after{content:"I AM NOT A LOLI";font-size:18px}
+#submit.fancyFont::after{content:"I POSSESS READING ABILITIES";font-size:18px}
 
 .orange-gradient #try-again::after{content:"← Revert the space time paradox you just created";font-size:18px}/* https://youtu.be/LyM1UGD8sqM */
 .orange-gradient #try-again{font-size:0}}
