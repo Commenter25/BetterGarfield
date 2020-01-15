@@ -6,6 +6,13 @@ In a nutshell, here's what that means in a very heavily paraphrased manner:
   * Clicking the version name will show what the repository looked like at the time
   * The list is sorted by new (so if v4.2.0 is the latest, then v4.1.9 will be right below it if that's the previous version)
 
+## 2020-01-15 - [Version 1.1.8](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.8)
+Nothing really related to the site. Yes, I know I haven't updated this project in forever. Luckily, Garfield.com hasn't shut down since Garf was bought by Viacom, so the site might stay like normal. I've mostly just lost motivation, and haven't really felt like doing things with it. I still have ideas, but I'm not sure when or if they'll come to light. I'll update BetterGarf if I notice something broken, but currently I wouldn't watch too close for actual new features. There's not a lot left to be done with pure CSS anyway. Feel free to leave bug reports or feature suggestions if you have any though, I'll still take a look. BetterGarf isn't dead until I am, and that's not happening any time soon.
+
+The best way to keep track of this project for now would be to use GitHub's watch feature to get notified when there's a new release.
+### Changed:
+  * The Age Check button's text to something a bit less dumb and somewhat edgy
+
 ## 2019-06-04 - [Version 1.1.7](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.7)
 Viacom owns Paws Inc, and now shopping links have been removed from Garfield.com. I fear this is the beginning of the end of Garfield's website.
 ### Removed:
@@ -26,7 +33,7 @@ small patch thingy, still working on v2 to come someday
 
 ## 2019-03-30 - [Version 1.1.4](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.4)
 ### Changed:
-  * Now a different line says something else, which might've brought you here 😉
+  * Now a different line says something else, which might've brought you here
 ### Removed:
   * The fix for "the The Garfield Show" since that line is now removed from the ticker
 
