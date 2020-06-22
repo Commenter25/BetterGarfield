@@ -6,44 +6,53 @@ In a nutshell, here's what that means in a very heavily paraphrased manner:
   * Clicking the version name will show what the repository looked like at the time
   * The list is sorted by new (so if v4.2.0 is the latest, then v4.1.9 will be right below it if that's the previous version)
 
-## 2020-01-15 - [Version 1.1.8](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.8)
+## 2020-01-20 - [Version 1.1.9](https://github.com/Commenter25/BetterGarfield/tree/v1.1.9)
+Garfield.com has ended. It's now just a generic landing page from Nick. And the only official website with the comics is the desaturated lower res GoComics versions. End of an era...
+
+...but maybe the beginning of another for this project. Keep an eye on @BetterGarf on Twitter.
+### Added:
+  * Message saying to follow @BetterGarf for updates.
+### Removed:
+  * Everything.
+
+## 2020-01-15 - [Version 1.1.8](https://github.com/Commenter25/BetterGarfield/tree/v1.1.8)
 Nothing really related to the site. Yes, I know I haven't updated this project in forever. Luckily, Garfield.com hasn't shut down since Garf was bought by Viacom, so the site might stay like normal. I've mostly just lost motivation, and haven't really felt like doing things with it. I still have ideas, but I'm not sure when or if they'll come to light. I'll update BetterGarf if I notice something broken, but currently I wouldn't watch too close for actual new features. There's not a lot left to be done with pure CSS anyway. Feel free to leave bug reports or feature suggestions if you have any though, I'll still take a look. BetterGarf isn't dead until I am, and that's not happening any time soon.
 
 The best way to keep track of this project for now would be to use GitHub's watch feature to get notified when there's a new release.
 ### Changed:
   * The Age Check button's text to something a bit less dumb and somewhat edgy
 
-## 2019-08-14 - [Version 1.1.7](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.7)
+## 2019-08-14 - [Version 1.1.7](https://github.com/Commenter25/BetterGarfield/tree/v1.1.7)
 Viacom owns Paws Inc, and now shopping links have been removed from Garfield.com. I fear this is the beginning of the end of Garfield's website.
 ### Removed:
   * Option to hide the Entertainment button. It's now required to access those pages
   * Shop page changes. Obviously, there's now no shop to change.
 
-## 2019-06-04 - [Version 1.1.6](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.6)
+## 2019-06-04 - [Version 1.1.6](https://github.com/Commenter25/BetterGarfield/tree/v1.1.6)
 small patch thingy, still working on v2 to come someday
 ### Fixed:
   * Centered arrows in carousel buttons
   * Go Games is now hidden
   * News ticker text is now consistently not bold, thanks Garfield GO
 
-## 2019-04-06 - [Version 1.1.5](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.5)
+## 2019-04-06 - [Version 1.1.5](https://github.com/Commenter25/BetterGarfield/tree/v1.1.5)
 ### Changed:
   * It's been about a week now, time to get rid of that little eye catcher for that message below.
 (i hate making version increments for these two updates that have almost no value but hey i gotta do it)
 
-## 2019-03-30 - [Version 1.1.4](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.4)
+## 2019-03-30 - [Version 1.1.4](https://github.com/Commenter25/BetterGarfield/tree/v1.1.4)
 ### Changed:
   * Now a different line says something else, which might've brought you here
 ### Removed:
   * The fix for "the The Garfield Show" since that line is now removed from the ticker
 
-## 2019-03-01 - [Version 1.1.3](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.3)
+## 2019-03-01 - [Version 1.1.3](https://github.com/Commenter25/BetterGarfield/tree/v1.1.3)
 ### Fixed:
   * Got rid of sharing icons on the comics page (i should really have looked through on a clean browser _before_ release)
   * Added padding to the news page.
   * Hidden the entertainment button no matter what on resolutions between 768px and 992px
 
-## 2019-02-26 - [Version 1.1.2](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.2)
+## 2019-02-26 - [Version 1.1.2](https://github.com/Commenter25/BetterGarfield/tree/v1.1.2)
 ### Changed:
   * The option for hiding the home carousel is now simply a option to hide all carousels
 
@@ -56,7 +65,7 @@ small patch thingy, still working on v2 to come someday
   * Updated namespace (it's now consistent between all of my styles)
   * File is now UTF-8 instead of Unicode, which not only halfed the file size via sorcery, but also GitHub actually shows it because they suck _**BINARY FILE NOT SHOWN BINARY FILE NOT SHOWN**_
 
-## 2019-02-15 - [Version 1.1.1](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.1)
+## 2019-02-15 - [Version 1.1.1](https://github.com/Commenter25/BetterGarfield/tree/v1.1.1)
 ### Fixed:
   * Fixed some night mode bugs (including the comic calendar)
   * Added support for the site's scaling (how did i forget about this)
@@ -66,7 +75,7 @@ small patch thingy, still working on v2 to come someday
   * Added a background to the character page boxes
   * Probably some other stuff I forgot to put here
 
-## 2019-02-14 - [Version 1.1.0](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.1.0)
+## 2019-02-14 - [Version 1.1.0](https://github.com/Commenter25/BetterGarfield/tree/v1.1.0)
 ### Added:
 * A dark mode
 * Options
@@ -86,7 +95,7 @@ small patch thingy, still working on v2 to come someday
   * The hover for listable items was 1 pixel off the gradient thingy. I know, I just saved your life, get off your knees.
   * Whoops! I forgot to add the mouse-over-click feature to the characters page!
 
-## 2019-02-11 - [Version 1.0.0](https://github.com/CommenterOfComments/BetterGarfield/tree/v1.0.0)
+## 2019-02-11 - [Version 1.0.0](https://github.com/Commenter25/BetterGarfield/tree/v1.0.0)
 Initial release of BetterGarfield  
 Please let me know if there's anything you want added, or if anything is broken!
 

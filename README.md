@@ -1,6 +1,9 @@
 ![logo goes here](images/logo.svg)  
 _A enhancement to the quality and experience of Garfield.com_  
-![watchers](https://img.shields.io/github/watchers/CommenterOfComments/BetterGarfield.svg?style=plastic) ![stars](https://img.shields.io/github/stars/CommenterOfComments/BetterGarfield.svg?style=plastic) ![forks](https://img.shields.io/github/forks/CommenterOfComments/BetterGarfield.svg?style=plastic) ![lastcommit](https://img.shields.io/github/last-commit/CommenterOfComments/BetterGarfield.svg?style=plastic) ![issues](https://img.shields.io/github/issues/CommenterOfComments/BetterGarfield.svg?style=plastic)
+
+# This doesn't work anymore
+
+Garfield.com has been taken down and replaced with a fairly generic Nickelodeon landing page. Everything BetterGarfield did has been broken, except the dark mode happens to kinda work. This repository is now an archive of the project, and most of the things below are outdated. ***Stay tuned to @BetterGarf on Twitter, I might be doing something new for Garf.***
 
 # Download
 <strong>READ THIS BEFORE CLICKING INSTALL:</strong>  
